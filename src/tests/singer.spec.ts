@@ -1,5 +1,4 @@
 import {Singer} from "../class/Singer";
-import { IUnit } from '../class/IUnit';
 
 describe('Singer', () => {
   let singer: Singer;
